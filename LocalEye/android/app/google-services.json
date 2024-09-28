@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "897331187346",
+    "firebase_url": "https://currencychanger-304e0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "currencychanger-304e0",
+    "storage_bucket": "currencychanger-304e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897331187346:android:8f070143b99511583de04b",
+        "android_client_info": {
+          "package_name": "com.localeye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUY5Gc80HfvADNi07DNly8BuNv7zBWOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
